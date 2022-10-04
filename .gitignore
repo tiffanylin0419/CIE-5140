@@ -1,0 +1,10 @@
+# File >50MB
+# find . -size +50MB | cat >> .gitignore
+1/Rain_MD-Androy-Bekily_1d_19810101-20210530_CHIRPS.csv
+Final/tc-rg-counts_ep_MX.csv
+Final/Files/MX_SAT-RG_data.csv
+Final/tc-tracks_MX-station_distance_min.csv
+2/Rain_MD-Androy-Bekily_1d_19810101-20210530_CHIRPS.csv
+quiz/Nettebach_5MIN.csv
+Final/Files/MX_SAT-RG_data.csv.zip
+
